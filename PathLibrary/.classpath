@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.6.Final/42c7130757c3f67dda008d8edb28b381a09a7ce6/hibernate-core-5.3.6.Final.jar" sourcepath="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.6.Final/3b90051c597cfdbe1855315a0257bd79475dd277/hibernate-core-5.3.6.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-jpamodelgen/5.3.6.Final/4b35434c7b3c1228634bd1f7b0b445dcfaba3a21/hibernate-jpamodelgen-5.3.6.Final.jar" sourcepath="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-jpamodelgen/5.3.6.Final/78ce1ead3933580cf0c2c7394d7376a882eed62d/hibernate-jpamodelgen-5.3.6.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/25665ac8c0b62f50e6488173233239120fc52c96/javax.persistence-api-2.2.jar" sourcepath="/Users/Daniel/.gradle/caches/modules-2/files-2.1/javax.persistence/javax.persistence-api/2.2/462dff65f6f8bde02ee9d8afe07fe9d50268199c/javax.persistence-api-2.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar" sourcepath="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.2.1/f77dfd89318fe3ff293bafceaa75fbf66e4e4b10/guice-4.2.1.jar" sourcepath="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.2.1/ed8f92aff1928539f863ad8aa2be8a6160496023/guice-4.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/26.0-jre/2e35b51c759ae1a6edbb967b65c525105536d382/guava-26.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0/c947004bb13d18182be60077ade044099e4f26f1/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.inject/guice/4.2.1/ed8f92aff1928539f863ad8aa2be8a6160496023/guice-4.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.google.inject.extensions/guice-persist/4.2.1/cc74a86825dc3293a08fa30e6be8b17e79942f66/guice-persist-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.sparkjava/spark-core/2.8.0/784ff9ba2ff8b45ef44b4cbe7a8b3e34a839a69b/spark-core-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/com.sparkjava/spark-core/2.8.0/723e11d1caad947a94d5b1c6a297f8b1421bc557/spark-core-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.21/7238b064d1aba20da2ac03217d700d91e02460fa/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.21/16b1333786ea93d16bff6fb0f5e3b82716d1b008/slf4j-log4j12-1.7.21-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
